@@ -6,4 +6,4 @@ Points à réaliser :
 
 -analyse UML et/ou MERISE
 -développement interface utilisateur
--base de données
+-base de données à definir
