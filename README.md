@@ -1,5 +1,5 @@
 # ProjetPAE
-*projet de développement en entreprise*  
+*_projet de développement en entreprise_*  
 **Projet de développement d'application d'entreprise.**
 
 Points à réaliser :  
